@@ -1,0 +1,16 @@
+developer has their own private repository to track their changes in.
+ You make your changes locally and when you’re ready to share
+ them with other developers, you push them back to the rep
+ository you all share. Commit saves the changes
+ you made only to the local repository b
+ut not to the remote repository. Your
+ commits are not automatically synchronized to the
+ remote repository – you
+ have to explicitly push the commits you want to share.
+ When you use the push command,
+ you apply your changes to the upstream repository.
+
+Read more: Difference Between 
+Commit and Push | Difference Between
+http://www.differencebetween.net/technology/difference-between-commit-and-push/#ixzz7T31zyysC
+
